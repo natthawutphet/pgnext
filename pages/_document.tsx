@@ -9,7 +9,7 @@ export default function Document() {
   
 
   <Head>
-
+<meta name="google-site-verification" content="X1MbcVGU0R-r2ITS-v5d8niaaPcCb3XYYadwVGzVTCY" />
     <meta name="keywords" content="PG, PGเว็บตรง, สล็อตเว็บตรง,เว็บสล็อตเว็บตรง,สล็อตเว็บตรงแตกง่าย,สล็อตเว็บตรงวอเลท,สล็อตเว็บตรงล่าสุด,สล็อต pg,pg สล็อต,เว็บตรงสล็อต,เว็บตรง,สล็อต,สล็อตpg,สล็อตแตกง่าย,เว็บสล็อต,เว็บสล็อตpg,สล็อตpgเว็บตรง,pg,เว็บสล็อตแตกง่าย,สล็อตวอเลท,สล็อตแตกง่ายเว็บตรง,สมัครสล็อตเว็บตรง,สล็อตแตกง่ายวอเลท,สล็อตpgแตกง่าย,สล็อตวอเลทแตกง่าย,สล็อตวอเลทเว็บตรง,สล็อตวอเลท pg,pg สล็อต ล่าสุด,เว็บสล็อตเว็บตรง วอลเล็ต,สล็อตแตกง่ายล่าสุด,สล็อตpgวอเลท,สล็อตpgล่าสุด,pg ทุนน้อย,สล็อตทุนน้อยแตกง่าย" />
   <link rel="canonical" href="https://www.pgbet-168.com/" />
 <meta name="robots" content="index, follow" />
