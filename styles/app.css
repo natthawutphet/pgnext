@@ -1,0 +1,33 @@
+footer {
+    background-color: rgb(142, 142, 142);
+    margin-bottom: 100px;
+    padding: 25px;
+}
+.footerimg {
+    width: 100%;
+}
+.fimg {
+    max-width: 900px;
+    margin: auto;
+}
+
+
+.linecuttop01:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 4px;
+    z-index: 9;
+
+    background-size: 100%;
+}
+
+.navbar {
+    background-color: rgb(109, 110, 110);
+
+}
+#navbar {
+    color: aliceblue;
+}
